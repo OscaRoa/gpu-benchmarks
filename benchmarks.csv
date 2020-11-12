@@ -1,0 +1,44 @@
+game,api,preset,engine,avg,min,max,ram
+World War Z,DX11,Ultra,,102,90,120,2993
+World War Z,DX11,Ultra,,102,90,126,2993
+World War Z,DX11,Ultra,,103,86,121,2993
+World War Z,Vulkan,Ultra,,123,102,175,2993
+World War Z,Vulkan,Ultra,,121,99,179,2993
+World War Z,Vulkan,Ultra,,122,103,178,2993
+Batman Arkham Knight,DX11,High,,88,51,125,2993
+Batman Arkham Knight,DX11,High,,88,49,125,2993
+Batman Arkham Knight,DX11,High,,88,47,125,2993
+AC: Origins,DX11,Ultra,,70,13,113,2993
+AC: Origins,DX11,Ultra,,70,2,114,2993
+AC: Origins,DX11,Ultra,,70,8,113,2993
+Deus Ex Mankind Divided,DX12,Ultra,,66,51,86,2993
+Deus Ex Mankind Divided,DX12,Ultra,,66,50,85,2993
+Deus Ex Mankind Divided,DX12,Ultra,,66,52,86,2993
+Deus Ex Mankind Divided,DX11,Ultra,,64,50,82,2993
+Deus Ex Mankind Divided,DX11,Ultra,,64,50,82,2993
+Deus Ex Mankind Divided,DX11,Ultra,,64,50,82,2993
+GTA V,DX11,Very High,,125,65,268,2993
+GTA V,DX11,Very High,,125,61,267,2993
+Rise of the Tomb Raider,DX12,Very High,,105,51,138,2993
+Rise of the Tomb Raider,DX12,Very High,,105,52,141,2993
+Rise of the Tomb Raider,DX12,Very High,,106,39,135,2993
+Rise of the Tomb Raider,DX11,Very High,,98,43,139,2993
+Rise of the Tomb Raider,DX11,Very High,,99,51,139,2993
+Rise of the Tomb Raider,DX11,Very High,,99,56,134,2993
+Valorant,DX11,Custom for performance,UE4,187,147,212,2993
+Valorant,DX11,Custom for performance,UE4,203,141,240,2993
+Valorant,DX11,Custom for performance,UE4,180,137,206,2993
+Valorant,DX11,Custom for performance,UE4,169,131,208,2993
+Valorant,DX11,Custom for performance,UE4,180,129,276,2993
+Warzone,DX11,Everything on high,,98,13,118,2993
+Warzone,DX11,Everything on high,,87,59,107,2993
+Warzone,DX11,Everything on high,,92,37,122,2993
+Shadow of the Tomb Raider,DX12,Highest,,80,61,128,2993
+Shadow of the Tomb Raider,DX12,Highest,,80,48,144,2993
+Shadow of the Tomb Raider,DX12,Highest,,79,54,125,2993
+Apex Legends,DX11,High,,125,86,144,2993
+Apex Legends,DX11,High,,112,62,144,2993
+Apex Legends,DX11,High,,113,70,144,2700
+Overwatch,DX11,Custom for performance,,167,125,192,2700
+Overwatch,DX11,Custom for performance,,181,100,194,2700
+Overwatch,DX11,Custom for performance,,183,151,194,2700
